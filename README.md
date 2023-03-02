@@ -1,6 +1,6 @@
 # Firebase-Practice
 
-A simple login and signup page with fire base authtication
+A simple login and signup page with fire base authentication 
 
 Uses activities and intents to navigate pages
 
